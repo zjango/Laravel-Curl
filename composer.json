@@ -1,0 +1,22 @@
+{
+    "name": "zjango/curl",
+    "description": "Laravel Package For cURL",
+    "keywords": ["framework", "laravel", "curl", "Laravrl-Curl","Laravrl Curl"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "zjango",
+            "email": "zjango@icloud.com"
+        }
+    ],
+    "autoload": {
+        "classmap": [
+            "src/Zjango"
+            ]
+    },
+    "config": {
+        "preferred-install": "dist"
+    },
+
+    "minimum-stability": "dev"
+}
